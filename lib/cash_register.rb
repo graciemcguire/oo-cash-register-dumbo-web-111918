@@ -11,5 +11,6 @@ class CashRegister
     if quantity 
      new_tot = self.total += price * quantity
      total = new_tot
+   end
   end
 end
